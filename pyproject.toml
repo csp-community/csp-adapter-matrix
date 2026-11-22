@@ -37,7 +37,7 @@ classifiers = [
 dependencies = [
     "chatom>0.2.2",
     "csp",
-    "matrix-nio>=0.25",
+    "matrix-nio>=0.26.0",
 ]
 
 [project.optional-dependencies]
